@@ -1,0 +1,201 @@
+body {
+	background-image: url(https://st2.depositphotos.com/1001877/5641/i/600/depositphotos_56412491-stock-photo-video-movie-cinema-concept-retro.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+}
+a {
+	text-decoration: none;
+}
+.container1 {
+	background-color: #663c3c;
+    height: 90px;
+    display: block;
+	border-radius: 5px;
+}
+.head1 {
+	color: #f2eded;
+	padding: 10px 0px;
+	float: left;
+	font-family: Arial;
+	font-weight: 900;
+}
+.container-inner {
+	display: inline-block;
+    height: 90px;  	
+}
+.golovna {
+	display: inline-block;
+	font-size: 20px;
+    font-family: Helvetica, Arial;
+    color: #808080;
+    cursor: pointer;
+    margin-top: 30px; 
+    margin-left: 100px;
+}
+.golovna:hover {
+	color: #FFFFFF;
+}
+.other {
+	display: inline-block;
+	font-size: 20px;
+    font-family: Helvetica, Arial;
+    color: #808080;
+    cursor: pointer;
+    margin-top: 30px; 
+    margin-left: 50px;
+}
+.other:hover {
+	color: #FFFFFF;
+}
+.autorization {
+	float: right;
+	width: 150px;
+	height: 90px;
+    font-size: 20px;
+    font-family: Helvetica, Arial;
+    color: #808080;
+    cursor: pointer;
+    margin: 30px 0px;  	
+}
+.autorization:hover {
+	color: #FFFFFF;
+}
+.enter {
+	float: right;
+	width: 100px;
+	height: 90px;
+    font-size: 20px;
+    font-family: Helvetica, Arial;
+    color: #808080;
+    cursor: pointer;
+    margin: 30px 0px;  	
+}
+.enter:hover {
+	color: #FFFFFF;
+}
+.container-main {
+	height: 2000px;
+	margin-top: 30px;
+	background-color: #f5f0f0;
+	opacity: 0.8; 
+	position: relative;
+	color: #8B4513;
+	font-family: Calibri, Tahoma;
+	font-size: 20px;
+	text-align: justify;
+}
+.congratulations {
+	margin-top: 150px;
+	margin-left: 370px;
+	position: absolute;
+}
+.head2 {
+	color: #c44f4f;
+    font-family: Arial, Tahoma;
+	font-size: 50px;
+	text-shadow: 0 10px 10px #D3D3D3;
+}
+.container-film {
+	position: absolute;
+	width: 800px;
+	height: 1700px;
+    background-color: #663c3c;
+    font-size: 20px; 
+    color: #f7f0f0;
+    display: block;
+    margin: 40px 400px;
+    font-family: Helvetica, Arial;
+}
+.container-film-buy {
+	width: 800px;
+	height: 1700px;
+    background-color: #663c3c;
+    font-size: 20px; 
+    color: #f7f0f0;
+    display: block;
+    margin: 40px 0px;
+    font-family: Helvetica, Arial;
+}
+.registration {
+	margin-top: 100px;
+	margin-left: 600px;
+	position: absolute;
+}
+.autorization-form {
+	margin-top: 100px;
+	margin-left: 600px;
+	position: absolute;
+}
+.payment {
+	margin-top: 10px;
+	margin-left: 500px;
+	position: absolute;
+}
+.about {
+	margin-top: 100px;
+	margin-left: 300px;
+	position: absolute;
+}
+.purchase {
+	margin-top: 10px;
+	margin-left: 300px;
+	position: absolute;
+}
+.button {
+	background: linear-gradient(#fd9800, #fd8900);
+	border: 1px solid #d96500;
+	box-shadow: 0 1px 1px rgba(255,255,255,0.4) inset;
+	border-radius: 2px;
+	margin: 5px;
+    width: 110px;
+    height: 50px;
+    cursor: pointer;
+    font-size: 16px;
+	font-weight: 700;
+    color: #fff;
+}
+.button:hover {
+	background: #fd9900;
+}
+.film-title {
+	display: inline-block;
+	width: 150px;
+	height: 50px;
+	margin: 10px;
+	border: 4px solid #f7f0f0;
+}
+.film-description-title {
+	display: inline-block;
+	width: 300px;
+	height: 50px;
+	margin: 10px;
+	border: 4px solid #f7f0f0;
+}
+.film-description {
+	display: inline-block;
+	width: 300px;
+	height: 200px;
+	margin: 10px;
+	border: 4px solid #f7f0f0;
+}
+.film-cost {
+	display: inline-block;
+	width: 50px;
+	height: 50px;
+	margin: 10px;
+	border: 4px solid #f7f0f0;
+}
+footer {
+	position: relative;
+	background: #121111;
+	display: block;
+	height: 80px;
+	color: #FFFFFF;
+	font-family: Arial,Tahoma;
+	font-size: 17px;
+	padding-top: 25px;
+	padding-left: 100px;
+	opacity: 0.8;
+}
